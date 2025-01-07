@@ -94,7 +94,7 @@ const Navbar = () => {
             </li>
             <li>
               <NavLink
-                to="/new"
+                to="/consult"
                 className={({ isActive }) =>
                   isActive ? "nav-item active" : "nav-item"
                 }
